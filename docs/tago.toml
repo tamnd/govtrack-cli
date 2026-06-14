@@ -1,0 +1,10 @@
+title       = "govtrack"
+baseURL     = "https://govtrack-cli.tamnd.com/"
+description = "A command line for govtrack."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/govtrack-cli"
